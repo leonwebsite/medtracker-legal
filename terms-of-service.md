@@ -130,4 +130,4 @@
 如對本條款有任何疑問，請透過以下方式聯絡我們：
 
 **開發者：** Chen Liang Yu
-**電子郵件：** 920616leon@gmail.com
+**電子郵件：** yaoanshin@gmail.com
