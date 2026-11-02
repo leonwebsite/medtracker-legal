@@ -5,7 +5,7 @@
 ## 聯絡我們
 
 **開發者：** Chen Liang Yu
-**電子郵件：** 920616leon@gmail.com
+**電子郵件：** yaoanshin@gmail.com
 
 來信時，建議附上以下資訊，讓我們更快協助您：
 
